@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+    <string name="ordenar">Ordenar</string>
+    <string name="ver_ordenes">Ver ordenes</string>
+    <string name="titulo">Don Taco</string>
+    <string name="entrada">Entrada</string>
+    <string name="sopa_del_dia">Sopa del dia</string>
+    <string name="sopa_azteca">Sopa azteca</string>
+    <string name="sopa_de_hongos">Sopa de hongos</string>
+    <string name="entretiempo">Entretiempo</string>
+    <string name="arroz">Arroz</string>
+    <string name="coditos_a_la_crema">Coditos a la crema</string>
+    <string name="plato_fuerte">Plato fuerte</string>
+    <string name="enchiladas">Enchiladas</string>
+    <string name="carne_azada">Carne azada</string>
+    <string name="chile_relleno">Chile relleno</string>
+    <string name="bebida">Bebida</string>
+    <string name="agua_del_dia">Agua del dia</string>
+    <string name="refresco">Refresco</string>
+    <string name="imagen_de_plato_de_entrada">Imagen de plato de entrada</string>
+    <string name="imagen_de_plato_de_entretiempo">Imagen de plato de entretiempo</string>
+    <string name="imagen_de_plato_fuerte">Imagen de plato fuerte</string>
+    <string name="imagen_de_bebida">Imagen de bebida</string>
+</resources>
